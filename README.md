@@ -1,7 +1,7 @@
-# GMX Contracts
-Contracts for GMX.
+# DMX Contracts
+Contracts for Damx.
 
-Docs at https://gmxio.gitbook.io/gmx/contracts.
+Docs at https://docs.dmxdao.com.
 
 ## Install Dependencies
 If npx is not installed yet:
